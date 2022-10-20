@@ -5,7 +5,7 @@ const quizArray = [
     b: 'Hyper Text Markup Language' ,
     c: 'Higher Text Markup Language' ,
     d: 'Jason Object Model' ,
-    correct: 'a'
+    correct: 'b'
     },
     {
     question: 'Javascript Launched in which year?',
